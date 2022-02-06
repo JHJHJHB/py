@@ -21,3 +21,5 @@ class fourcal:
     def reset(self):
         self.num1 = 0
         self.num2 = 0
+    def modified(self):
+        print('Modified!')
