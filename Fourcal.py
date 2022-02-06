@@ -21,5 +21,3 @@ class fourcal:
     def reset(self):
         self.num1 = 0
         self.num2 = 0
-    def ver_2(self):
-        print("ver.2!")
